@@ -1,0 +1,27 @@
+{
+    "General": {
+        "Theme": "light",
+        "DefaultSubject": "General",
+        "ApplicationName": "Enhanced Attendance System",
+        "Version": "1.0.0"
+    },
+    "FaceRecognition": {
+        "CascadePath": "D:\\work\\code\\py\\enhanced_attendance_system v10\\data\\haarcascades\\haarcascade_frontalface_default.xml",
+        "ModelPath": "D:\\work\\code\\py\\enhanced_attendance_system v10\\data\\models\\face_recognition_model.yml",
+        "DataDir": "/home/ubuntu/enhanced_attendance_system/data/images",
+        "MinFaceSize": "30",
+        "ScaleFactor": "1.1",
+        "MinNeighbors": "5",
+        "ConfidenceThreshold": "80",
+        "ImagesDirectory": ""
+    },
+    "AlertSystem": {
+        "AlertDuration": "5",
+        "AlertCooldown": "10",
+        "SoundEnabled": "True"
+    },
+    "UI": {
+        "AdminTitle": "Admin Interface - Enhanced Attendance System",
+        "ScannerTitle": "Scanner Interface - Enhanced Attendance System"
+    }
+}

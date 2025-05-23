@@ -1,0 +1,8 @@
+2025-05-23 03:27:02,376 - AttendanceSystem - WARNING - Face recognition model not found at D:\work\code\py\enhanced_attendance_system v10\data\models\face_recognition_model.yml
+2025-05-23 03:27:02,379 - AttendanceSystem - ERROR - Error initializing scanner interface: ConfigManager.get_path() takes 3 positional arguments but 4 were given
+2025-05-23 03:27:16,308 - AttendanceSystem - INFO - Launching scanner interface
+2025-05-23 03:27:16,345 - AttendanceSystem - WARNING - Face recognition model not found at D:\work\code\py\enhanced_attendance_system v10\data\models\face_recognition_model.yml
+2025-05-23 03:27:16,348 - AttendanceSystem - ERROR - Error initializing scanner interface: ConfigManager.get_path() takes 3 positional arguments but 4 were given
+2025-05-23 03:27:20,859 - AttendanceSystem - INFO - Launching scanner interface
+2025-05-23 03:27:20,891 - AttendanceSystem - WARNING - Face recognition model not found at D:\work\code\py\enhanced_attendance_system v10\data\models\face_recognition_model.yml
+2025-05-23 03:27:20,892 - AttendanceSystem - ERROR - Error initializing scanner interface: ConfigManager.get_path() takes 3 positional arguments but 4 were given
